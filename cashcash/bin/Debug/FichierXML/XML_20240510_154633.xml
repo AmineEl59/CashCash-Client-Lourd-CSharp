@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<listeMateriel>
+  <materiels idClient="cli5">
+    <sousContrat>
+      <materiel numSerie="131KLM">
+        <type refInterne="C5678" libelle="Casque audio Bluetooth Sony" />
+        <date_vente>2023-05-01</date_vente>
+        <date_installation>2023-05-02</date_installation>
+        <prix_vente>3000</prix_vente>
+        <emplacement>Emplacement5</emplacement>
+        <nbJourAvantEcheance>-9</nbJourAvantEcheance>
+      </materiel>
+    </sousContrat>
+  </materiels>
+</listeMateriel>
